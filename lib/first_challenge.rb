@@ -1,3 +1,3 @@
-def first_challenge
-   epic_tragedy = {}
+ef first_challenge
+   epic_tragedy = {:montague => {}, :capulet => {}}
 end
